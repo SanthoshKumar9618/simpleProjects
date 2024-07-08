@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>mca timetable</title>
+    <style type="text/css">
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            
+        }
+        h3{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    
+    <img src="https://www.nmit.ac.in/img/nitte-nmit-logo.png" alt="NMIT Logo" width="1000px"/>
+    <h3>DEPARTMENT OF MCA</h3>
+    <h3>TIME TABLE FOR EVEN SEMESTER ACARDAMIC YEAR 2023-2024</h3>
+    <h2 style="float: left;">semester:2</h2>
+    <h2 style="float: right;">section:B</h2>
+    <table>
+       
+            <tr>
+               <th>  </th>
+               <th>8:45-9:40</th>
+               <th>9:40-10:35</th>
+               <th>10:35-10:45</th>
+               <th>10:45-11:40</th>
+               <th>11:40-12:35</th>
+               <th>12:35-1:25</th>
+               <th>1:25-2:20</th>
+               <th>2:20-3:15</th>
+               <th>3:15-4:10</th>
+            </tr>
+      
+     
+            <tr>
+                <th>Monday</th>
+                <td>PP</td>
+                <td>E1</td>
+                <td rowspan="6">Short break</td>
+                <td colspan="2">PP lab-Batch-1 <br/> WP lab-batch-2</td>
+                <td rowspan="6">LUNCH BREAK</td>
+                <td>Wp</td>
+                <td>MA-tutorials</td>
+                <td>E1-tutorials</td>
+            </tr>
+            <tr>
+                <th>Tuesday</th>
+                <td>E2</td>
+                <td>PP</td>
+                
+                <td>E1</td>
+                <td>MA</td>
+                <td colspan="2">WP lab-Batch-1 <br/> MAA lab-batch-2</td>
+            
+                <td>E2-tutorials</td>
+            </tr>
+            <tr>
+                <th>Wednesday</th>
+                <td>E2</td>
+                <td>PP</td>
+                
+                <td>E1</td>
+                <td>MA</td>
+                <td>PP-tutorial</td>
+                <td>WP-tutorial</td>
+                <td>E3-tutorials</td>
+            </tr>
+            <tr>
+                <th>Thursday</th>
+                <td>MA</td>
+                <td>E3</td>
+                
+                <td>WP</td>
+                <td>E1</td>
+                <td colspan="2">MAA lab-Batch-1 <br/> PP lab-batch-2</td>
+            
+                <td>Mentoring</td>
+            </tr>
+            <tr>
+                <th>Friday</th>
+                <td>E3</td>
+                <td>E2</td>
+                
+                <td>PP</td>
+                <td>WP</td>
+                <td colspan="3">Technical task/SPARK CLUB activity</td>
+            
+            </tr>
+            <tr>
+                <th>Saturday</th>
+                <td>MA</td>
+                <td>PP</td>
+                
+                <td colspan="2">Tecnical Seminar</td>
+              
+                <td colspan="3"> </td>
+
+            </tr>
+    
+    </table>
+</body>
+</html>
